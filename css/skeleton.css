@@ -41,10 +41,10 @@
   float: left;
   margin-top: 10px;
   box-sizing: border-box; 
-  background-color: rgb(245, 225, 226);}
+  background-color: rgb(231, 245, 220);}
 .row {
   padding: 0 10px;
-  background-color: rgb(241, 209, 229);
+  background-color: rgb(206, 214, 188);
 }
 
 /* For devices larger than 400px */
@@ -126,15 +126,15 @@ html is set to 62.5% so that all the REM measurements throughout Skeleton
 are based on 10px sizing. So basically 1.5rem = 15px :) */
 html {
   font-size: 62.5%; 
-  background-color: rgb(245, 225, 226);}
+  background-color: rgb(226, 228, 220);}
 body {
   font-size: 2em; /* currently ems cause chrome bug misinterpreting rems on body element */
   line-height: 1.6;
   font-weight: 400;
   font-family: 'Kanit', sans-serif;
-  color: rgb(226, 139, 167); }
+  color: rgb(108, 126, 95); }
 h1{
-  color: rgb(171, 117, 196);
+  color: rgb(223, 101, 138);
 }
 
 /* Images
